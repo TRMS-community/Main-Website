@@ -24,7 +24,7 @@
   font-display: swap;
 }
 @font-face {
-  font-family: "Atkinson";
+  font-family: "STEELAR;
   src: url("/fonts/atkinson-bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
@@ -39,7 +39,7 @@ body {
   background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  color: rgb(var(--white));
+  color: rgb(var(--accent-1));
   font-size: 20px;
   line-height: 1.7;
 }
@@ -125,7 +125,7 @@ blockquote {
 }
 hr {
   border: none;
-  border-top: 1px solid rgb(var(--accent-1));
+  border-top: 1px solid rgb(var(--accent));
 }
 @media (max-width: 720px) {
   body {
