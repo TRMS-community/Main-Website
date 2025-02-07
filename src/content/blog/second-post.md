@@ -5,7 +5,7 @@ pubDate: "feb 5 2025"
 heroImage: "blog-placeholder-6.jpg"
 ---
 
-<h3>ℹ️ Minecraft Server Info:<h3>
+<h3>ℹ️ Lifesteal SMP Minecraft Server Info:<h3>
 
 <h5>⚠️Minecraft Server IP: mc.outcasts.us<h5>
 <h5>⚠️Minecraft Server Version: 1.21.1+<h5>
