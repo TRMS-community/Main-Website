@@ -8,6 +8,7 @@
   --accent: #1c53c2;
   --accent-dark: #1cc2a6;
   --white: #ffffff;
+  --color-1: #691b1b;
   --black: 15, 18, 25;
   --gray: 96, 115, 159;
   --gray-light: 229, 233, 240;
@@ -35,7 +36,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: left;
-  background: #1c53c2;
+  background: #691b1b;
   background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
