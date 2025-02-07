@@ -6,7 +6,7 @@
 
 :root {
   --accent: #1c53c2;
-  --accent-dark: #000d8a;
+  --accent-dark: #1cc2a6;
   --white: #ffffff;
   --black: 15, 18, 25;
   --gray: 96, 115, 159;
@@ -107,7 +107,7 @@ img {
 }
 code {
   padding: 2px 5px;
-  background-color: #1c53c2;
+  background-color: #1cc2a6;
   border-radius: 2px;
 }
 pre {
