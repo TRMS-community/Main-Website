@@ -5,7 +5,8 @@
  */
 
 :root {
-  --accent: #17e3ca;
+  --accent: #ffffff;
+  --accent-1: #218684;
   --accent-dark: #000d8a;
   --white: 255, 255, 255;
   --gray: 96, 115, 159;
@@ -38,7 +39,7 @@ body {
   background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  color: rgb(var(--gray-dark));
+  color: rgb(var(--white));
   font-size: 20px;
   line-height: 1.7;
 }
@@ -124,7 +125,7 @@ blockquote {
 }
 hr {
   border: none;
-  border-top: 1px solid rgb(var(--gray-light));
+  border-top: 1px solid rgb(var(--accent-1));
 }
 @media (max-width: 720px) {
   body {
