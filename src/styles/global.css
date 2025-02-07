@@ -35,7 +35,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: left;
-  background: linear-gradient(var(--gray-gradient)) no-repeat;
+  background: #1c53c2;
   background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -107,7 +107,7 @@ img {
 }
 code {
   padding: 2px 5px;
-  background-color: rgb(var(--accent));
+  background-color: #1c53c2;
   border-radius: 2px;
 }
 pre {
