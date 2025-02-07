@@ -1,5 +1,5 @@
 ---
-title: "Website Is Now online. Yah Wo Wo 🎊🎉🥳🎈"
+title: "Website Is Now online."
 description: "Site Is Now Open"
 pubDate: "Feb 6 2025"
 heroImage: "/blog-placeholder-6.jpg"
