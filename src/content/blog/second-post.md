@@ -12,7 +12,7 @@ heroImage: "/blog-placeholder-about.jpg"
 
 ---
 
-<h5>We hope to see you on the server soon. if you have any problums contact support here:<h5>
+<h3>We hope to see you on the server soon. if you have any problums contact support here:<h3>
 
 <h5>Support Email: outcast0events@gmail.com<h5>
 
