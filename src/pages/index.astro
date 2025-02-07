@@ -8,6 +8,32 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 <!doctype html>
 <html lang="en">
 	<head>
+	<script>
+  (function(w, d, t, h, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var v = '?v=' + Math.floor(new Date().getTime() / (120 * 1000)) * 60;
+    var sm = d.createElement(t);
+    sm.async = true;
+    sm.type = 'module';
+    sm.src = h + s + '.mjs' + v;
+    f.parentNode.insertBefore(sm, f);
+    var sn = d.createElement(t);
+    sn.async = true;
+    sn.noModule = true;
+    sn.src = h + s + '.js' + v;
+    f.parentNode.insertBefore(sn, f);
+  })(window, document, 'script', 'https://assets.flodesk.com', '/universal', 'fd');
+</script>
+<script>
+  window.fd('form', {
+    formId: '67a63fcaceaa6fe19a6797c3'
+  });
+</script>	
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} /> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6336881260105778"
      crossorigin="anonymous"></script>
 	</head>
@@ -37,32 +63,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
                         </p>
                       </main>
                             <script>
-  (function(w, d, t, h, s, n) {
-    w.FlodeskObject = n;
-    var fn = function() {
-      (w[n].q = w[n].q || []).push(arguments);
-    };
-    w[n] = w[n] || fn;
-    var f = d.getElementsByTagName(t)[0];
-    var v = '?v=' + Math.floor(new Date().getTime() / (120 * 1000)) * 60;
-    var sm = d.createElement(t);
-    sm.async = true;
-    sm.type = 'module';
-    sm.src = h + s + '.mjs' + v;
-    f.parentNode.insertBefore(sm, f);
-    var sn = d.createElement(t);
-    sn.async = true;
-    sn.noModule = true;
-    sn.src = h + s + '.js' + v;
-    f.parentNode.insertBefore(sn, f);
-  })(window, document, 'script', 'https://assets.flodesk.com', '/universal', 'fd');
-</script>
-<script>
-  window.fd('form', {
-    formId: '67a63fcaceaa6fe19a6797c3'
-  });
-</script>   
-
 
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6336881260105778"
      crossorigin="anonymous"></script>
