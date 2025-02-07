@@ -2,7 +2,7 @@
 title: "All Server Info"
 description: "Info"
 pubDate: "feb 5 2025"
-heroImage: "/blog-placeholder-about.jpg"
+heroImage: "blog-placeholder-6.jpg"
 ---
 
 <h3>ℹ️ Minecraft Server Info:<h3>
