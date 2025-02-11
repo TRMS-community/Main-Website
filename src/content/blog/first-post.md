@@ -2,7 +2,7 @@
 title: "Website Is Now online."
 description: "Site Is Now Open"
 pubDate: "Feb 6 2025"
-heroImage: "/Untitled.png"
+heroImage: "/Online.png"
 ---
 
 The Opening of Outcasts Events marks a significant milestone in the gaming community, creating a dedicated platform where players, developers, and enthusiasts come together to celebrate their shared passion. This grand opening is more than just an event; it is an experience that promises to revolutionize the way we connect and engage with games. With a lineup of exciting activities, panel discussions featuring industry experts, and exclusive game previews, attendees can expect a dynamic and immersive atmosphere that fosters creativity and collaboration.
