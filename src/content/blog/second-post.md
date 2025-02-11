@@ -2,7 +2,7 @@
 title: "All Server Info"
 description: "Info"
 pubDate: "feb 5 2025"
-heroImage: "blog-placeholder-6.jpg"
+heroImage: "/Untitled.png"
 ---
 
 <h3>ℹ️ Lifesteal SMP Minecraft Server Info:<h3>
